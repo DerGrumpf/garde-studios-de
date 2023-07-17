@@ -1,112 +1,169 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Garde Studios</title><link>https://garde-studios.de/</link><description>Recent content on Garde Studios</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://garde-studios.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Willkommen</title><link>https://garde-studios.de/about/</link><pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate><guid>https://garde-studios.de/about/</guid><description>Willkommen auf Garde Studios! Einem Ort wo sich jeder, Willkommen fühlen kann.
-Zu unserem Team: Wir sind ein Team von 8 Mitgliedern 3 Hauptadmins und 5 Normalen Admins. Die Hauptadmins bestimmen zusammen den Server und die Admins sind wie Mods nur mit mehr Kontrolle. Bevor auf unseren Server etwas passiert entscheidet unser gesamtes Team zusammen darüber. Der Inhaber des Server ist El Capitan Loading, die Co-Inhaber sind mlgChaostom und DerGrumpf.</description><content>&lt;h4 id="willkommen-auf-garde-studios">Willkommen auf Garde Studios!&lt;/h4>
-&lt;p>Einem Ort wo sich jeder, Willkommen fühlen kann.&lt;/p>
-&lt;p>Zu unserem Team:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Garde Studios</title>
+    <link>https://garde-studios.de/</link>
+    <description>Recent content on Garde Studios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://garde-studios.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Willkommen</title>
+      <link>https://garde-studios.de/about/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garde-studios.de/about/</guid>
+      <description>Willkommen auf Garde Studios! Einem Ort wo sich jeder, Willkommen fühlen kann.
+Zu unserem Team: Wir sind ein Team bestehend aus 8 Admins. Davon führen 3 die Spitze und entscheiden Demokratisch alle Prozesse auf dem Server. Die anderen 5 sind Mods mit erweiterten Rechten und werden in der Regel mit in die Entscheidungsprozesse einbezogen. Vorsitzender von Garde Studios ist El Capitan Loading, mlgChaostom kümmert sich um die Community arbeit und DerGrumpf verwaltet Systemadmin unsere Cloudserver.</description>
+      <content>&lt;h4 id=&#34;willkommen-auf-garde-studios&#34;&gt;Willkommen auf Garde Studios!&lt;/h4&gt;
+&lt;p&gt;Einem Ort wo sich jeder, Willkommen fühlen kann.&lt;/p&gt;
+&lt;p&gt;Zu unserem Team:
+Wir sind ein Team bestehend aus 8 Admins.
+Davon führen 3 die Spitze und entscheiden Demokratisch alle Prozesse auf dem Server.
+Die anderen 5 sind Mods mit erweiterten Rechten und werden in der Regel mit in die Entscheidungsprozesse einbezogen.
+Vorsitzender von &lt;em&gt;Garde Studios&lt;/em&gt; ist &lt;em&gt;El Capitan Loading&lt;/em&gt;, &lt;em&gt;mlgChaostom&lt;/em&gt; kümmert sich um die Community arbeit und &lt;em&gt;DerGrumpf&lt;/em&gt; verwaltet Systemadmin unsere Cloudserver.&lt;/p&gt;
+&lt;p&gt;Zu unserem Server &lt;a href=&#34;https://garde-studios.de/posts/discord&#34;&gt;Discord Server&lt;/a&gt;:
+Der Server ist unsere Heimat und unser kleines Experimentelles Labor. Wir Testen herum, haben Spaß und reden über alles. Bei uns gibt es wenige Grenzen, und wenn es grenzen gibt, stehen diese in unseren Regeln drinnen. Wir empfehlen sich daran zu halten, weil wir wollen keine Streitigkeiten. Auf dem Discord Server sind alle arten von Gruppen, Franchisen usw. Willkommen.
+Wenn es Schwierigkeiten gibt schickt diese bei uns in den &lt;em&gt;Report and Feedback Channel&lt;/em&gt;, ihr Könnt dort alles reinschicken wir nehmen alles an und Kümmern uns drum.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wir sind Garde Studios und wir freuen uns auf eine Schöne Zeit mit euch!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Euer Server Team&lt;/strong&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Willkommen</title>
+      <link>https://garde-studios.de/posts/hello/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garde-studios.de/posts/hello/</guid>
+      <description>Willkommen auf Garde Studios! Einem Ort wo sich jeder, Willkommen fühlen kann.
+Zu unserem Team: Wir sind ein Team von 8 Mitgliedern 3 Hauptadmins und 5 Normalen Admins. Die Hauptadmins bestimmen zusammen den Server und die Admins sind wie Mods nur mit mehr Kontrolle. Bevor auf unseren Server etwas passiert entscheidet unser gesamtes Team zusammen darüber. Der Inhaber des Server ist El Capitan Loading, die Co-Inhaber sind mlgChaostom und DerGrumpf.</description>
+      <content>&lt;h4 id=&#34;willkommen-auf-garde-studios&#34;&gt;Willkommen auf Garde Studios!&lt;/h4&gt;
+&lt;p&gt;Einem Ort wo sich jeder, Willkommen fühlen kann.&lt;/p&gt;
+&lt;p&gt;Zu unserem Team:
 Wir sind ein Team von 8 Mitgliedern 3 Hauptadmins und 5 Normalen Admins.
 Die Hauptadmins bestimmen zusammen den Server und die Admins sind wie Mods nur mit mehr Kontrolle.
 Bevor auf unseren Server etwas passiert entscheidet unser gesamtes Team zusammen darüber.
-Der Inhaber des Server ist &lt;em>El Capitan Loading&lt;/em>, die Co-Inhaber sind &lt;em>mlgChaostom&lt;/em> und &lt;em>DerGrumpf&lt;/em>.&lt;/p>
-&lt;p>Zu unserem Server &lt;a href="https://garde-studios.de/posts/discord">Discord Server&lt;/a>:
+Der Inhaber des Server ist &lt;em&gt;El Capitan Loading&lt;/em&gt;, die Co-Inhaber sind &lt;em&gt;mlgChaostom&lt;/em&gt; und &lt;em&gt;DerGrumpf&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Zu unserem Server &lt;a href=&#34;https://garde-studios.de/posts/discord&#34;&gt;Discord Server&lt;/a&gt;:
 Der Server ist unsere Heimat und unser kleines Experimentelles Labor. Wir Testen herum, haben Spaß und reden über alles. Bei uns gibt es wenige Grenzen, und wenn es grenzen gibt, stehen diese in unseren Regeln drinnen. Wir empfehlen sich daran zu halten, weil wir wollen keine Streitigkeiten. Auf dem Discord Server sind alle arten von Gruppen, Franchisen usw. Willkommen.
-Wenn es Schwierigkeiten gibt schickt diese bei uns in den &lt;em>Report and Feedback Channel&lt;/em>, ihr Könnt dort alles reinschicken wir nehmen alles an und Kümmern uns drum.&lt;/p>
-&lt;p>&lt;strong>Wir sind Garde Studios und wir freuen uns auf eine Schöne Zeit mit euch!&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>Euer Server Team&lt;/strong>&lt;/p></content></item><item><title>Willkommen</title><link>https://garde-studios.de/posts/hello/</link><pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate><guid>https://garde-studios.de/posts/hello/</guid><description>Willkommen auf Garde Studios! Einem Ort wo sich jeder, Willkommen fühlen kann.
-Zu unserem Team: Wir sind ein Team von 8 Mitgliedern 3 Hauptadmins und 5 Normalen Admins. Die Hauptadmins bestimmen zusammen den Server und die Admins sind wie Mods nur mit mehr Kontrolle. Bevor auf unseren Server etwas passiert entscheidet unser gesamtes Team zusammen darüber. Der Inhaber des Server ist El Capitan Loading, die Co-Inhaber sind mlgChaostom und DerGrumpf.</description><content>&lt;h4 id="willkommen-auf-garde-studios">Willkommen auf Garde Studios!&lt;/h4>
-&lt;p>Einem Ort wo sich jeder, Willkommen fühlen kann.&lt;/p>
-&lt;p>Zu unserem Team:
-Wir sind ein Team von 8 Mitgliedern 3 Hauptadmins und 5 Normalen Admins.
-Die Hauptadmins bestimmen zusammen den Server und die Admins sind wie Mods nur mit mehr Kontrolle.
-Bevor auf unseren Server etwas passiert entscheidet unser gesamtes Team zusammen darüber.
-Der Inhaber des Server ist &lt;em>El Capitan Loading&lt;/em>, die Co-Inhaber sind &lt;em>mlgChaostom&lt;/em> und &lt;em>DerGrumpf&lt;/em>.&lt;/p>
-&lt;p>Zu unserem Server &lt;a href="https://garde-studios.de/posts/discord">Discord Server&lt;/a>:
-Der Server ist unsere Heimat und unser kleines Experimentelles Labor. Wir Testen herum, haben Spaß und reden über alles. Bei uns gibt es wenige Grenzen, und wenn es grenzen gibt, stehen diese in unseren Regeln drinnen. Wir empfehlen sich daran zu halten, weil wir wollen keine Streitigkeiten. Auf dem Discord Server sind alle arten von Gruppen, Franchisen usw. Willkommen.
-Wenn es Schwierigkeiten gibt schickt diese bei uns in den &lt;em>Report and Feedback Channel&lt;/em>, ihr Könnt dort alles reinschicken wir nehmen alles an und Kümmern uns drum.&lt;/p>
-&lt;p>&lt;strong>Wir sind Garde Studios und wir freuen uns auf eine Schöne Zeit mit euch!&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>Euer Server Team&lt;/strong>&lt;/p></content></item><item><title>Minecraft</title><link>https://garde-studios.de/posts/minecraft/</link><pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate><guid>https://garde-studios.de/posts/minecraft/</guid><description>Unser Minecraft Server!
+Wenn es Schwierigkeiten gibt schickt diese bei uns in den &lt;em&gt;Report and Feedback Channel&lt;/em&gt;, ihr Könnt dort alles reinschicken wir nehmen alles an und Kümmern uns drum.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wir sind Garde Studios und wir freuen uns auf eine Schöne Zeit mit euch!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Euer Server Team&lt;/strong&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Minecraft</title>
+      <link>https://garde-studios.de/posts/minecraft/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garde-studios.de/posts/minecraft/</guid>
+      <description>Unser Minecraft Server!
 Verbinde dich einfach mit garde-studios.de
-Wir haben derweil das Garde Studios Minecraft Projekt am Laufen. Ein Projekt wo jeder dran Teilnehmen kann der Minecraft spielt. Es ist ein Survival Adventure Map, heißt du kannst machen was du willts und das alles im Survival auf einer riesigen begrenzten Map. Einzige Voraussetzung du musst auf unserem Discord Server sein. Bei Fragen wende dich an El Capitan Loading (Projektleitung) oder an mlgChaostom44 (Stellv.</description><content>&lt;p>&lt;img src="https://img.shields.io/badge/Hosted_on_Ubuntu-100000?style=plastic&amp;amp;logo=ubuntu&amp;amp;logoColor=E95420&amp;amp;labelColor=000000&amp;amp;color=000000" alt="https://ubuntu.com/download">&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fminecraft-server-status-badge.vercel.app%2Fapi%2Fserver%2Fgarde-studios.de%3Fport%3D25565" alt="garde-studios.de">&lt;/p>
-&lt;p>Unser Minecraft Server!&lt;/p>
-&lt;p>Verbinde dich einfach mit &lt;em>garde-studios.de&lt;/em>&lt;/p>
-&lt;p>Wir haben derweil das Garde Studios Minecraft Projekt am Laufen.
-Ein Projekt wo jeder dran Teilnehmen kann der Minecraft spielt.
-Es ist ein Survival Adventure Map, heißt du kannst machen was du willts und das alles im Survival auf einer riesigen begrenzten Map.
-Einzige Voraussetzung du musst auf unserem Discord Server sein.
-Bei Fragen wende dich an &lt;em>&lt;a href="https://www.instagram.com/cpt.loading/">El Capitan Loading&lt;/a> (Projektleitung)&lt;/em> oder an &lt;em>mlgChaostom44 (Stellv. Projektleitung)&lt;/em>.&lt;/p>
-&lt;p>&lt;strong>Server Host ist &lt;a href="https://www.instagram.com/dergrumpf/">DerGrumpf&lt;/a>&lt;/strong>&lt;/p>
-&lt;p>Die Dynamic Maps findest du unter folgenden Adressen:&lt;/p>
-&lt;p>&lt;a href="https://lobby.garde-studios.de">Lobby&lt;/a>&lt;/p>
-&lt;iframe src="https://lobby.garde-studios.de" width="100%" height="400px">&lt;/iframe>
-&lt;p>&lt;a href="https://factions.garde-studios.de">Factions&lt;/a>&lt;/p>
-&lt;iframe src="https://factions.garde-studios.de" width="100%" height="600px"/>&lt;/iframe>
-&lt;p>&lt;a href="https://prime-city.garde-studios.de">Prime City&lt;/a>&lt;/p>
-&lt;iframe src="https://prime-city.garde-studios.de" width="100%" height="400px"/>&lt;/iframe></content></item><item><title>Discord</title><link>https://garde-studios.de/posts/discord/</link><pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate><guid>https://garde-studios.de/posts/discord/</guid><description>Join unserem Discord Server!
+Wir haben derzeit kein Garde Studios Minecraft Projekt am Laufen. Sorry &amp;lt;3
+Bei Fragen wende dich an El Capitan Loading (Projektleitung) oder an mlgChaostom44 (Stellv. Projektleitung).
+Server Host ist DerGrumpf</description>
+      <content>&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;amp;logo=ubuntu&amp;amp;logoColor=white&#34; alt=&#34;Ubuntu&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&amp;amp;logo=rockylinux&amp;amp;logoColor=white&#34; alt=&#34;Rocky Linux&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.shields.io/endpoint?url=https%3A%2F%2Fminecraft-server-status-badge.vercel.app%2Fapi%2Fserver%2Fgarde-studios.de%3Fport%3D25565&#34; alt=&#34;garde-studios.de&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Unser Minecraft Server!&lt;/p&gt;
+&lt;p&gt;Verbinde dich einfach mit &lt;em&gt;garde-studios.de&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Wir haben derzeit kein Garde Studios Minecraft Projekt am Laufen. Sorry &amp;lt;3&lt;/p&gt;
+&lt;p&gt;Bei Fragen wende dich an &lt;em&gt;&lt;a href=&#34;https://www.instagram.com/cpt.loading/&#34;&gt;El Capitan Loading&lt;/a&gt; (Projektleitung)&lt;/em&gt; oder an &lt;em&gt;mlgChaostom44 (Stellv. Projektleitung)&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Server Host ist &lt;a href=&#34;https://www.instagram.com/dergrumpf/&#34;&gt;DerGrumpf&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Discord</title>
+      <link>https://garde-studios.de/posts/discord/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garde-studios.de/posts/discord/</guid>
+      <description>Join unserem Discord Server!
 Du bist jederzeit Willkommen. Schreib mit uns in verschiedensten Kategorien über diverese Thematiken. Die einzige Voraussetzung? Halte dich bitte an unsere Regeln!
-Server Regeln: Keine Beleidigungen Bei zwei Beleidigungen gibt es einen 5min Timeout. Bei Wiederholten Beleidigungen einen Kick. (Zählt für alle Channel auch die Sprachchannel) Respektvoller Umgang Kein Spam (auch nicht im Sprachchat!) Keine Eigen - oder Fremdwerbung Darunter zählt auch Werbung im Namen oder in der Beschreibung.</description><content>&lt;p>&lt;a href="https://discord.gg/SgMdHSBs7y">&lt;img src="https://dcbadge.vercel.app/api/server/SgMdHSBs7y?style=flat" alt="">&lt;/a>&lt;/p>
-&lt;p>&lt;img src="https://badgen.net/discord/online-members/SgMdHSBs7y" alt="">&lt;/p>
-&lt;p>Join unserem &lt;a href="https://discord.gg/SgMdHSBs7y">Discord Server&lt;/a>!&lt;/p>
-&lt;p>Du bist jederzeit Willkommen. Schreib mit uns in verschiedensten Kategorien über diverese Thematiken. Die einzige Voraussetzung? Halte dich bitte an unsere Regeln!&lt;/p>
-&lt;h4 id="server-regeln">Server Regeln:&lt;/h4>
-&lt;ul>
-&lt;li>&lt;em>Keine Beleidigungen&lt;/em>
-&lt;ul>
-&lt;li>Bei zwei Beleidigungen gibt es einen 5min Timeout.&lt;/li>
-&lt;li>Bei Wiederholten Beleidigungen einen Kick. (Zählt für alle Channel auch die Sprachchannel)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;em>Respektvoller Umgang&lt;/em>&lt;/li>
-&lt;li>&lt;em>Kein Spam&lt;/em> (auch nicht im Sprachchat!)&lt;/li>
-&lt;li>&lt;em>Keine Eigen - oder Fremdwerbung&lt;/em>
-&lt;ul>
-&lt;li>Darunter zählt auch Werbung im Namen oder in der Beschreibung.&lt;/li>
-&lt;li>Wird mit einem Kick bestraft.&lt;/li>
-&lt;li>Bei wiederholter Tat gibt es einen Ban.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;em>Kein NSFW Content&lt;/em> -&amp;gt; Sonst Ban&lt;/li>
-&lt;li>&lt;em>Keine Multiaccounts&lt;/em> um einen Ban zu umgehen&lt;/li>
-&lt;li>&lt;em>Bot Commands nicht ausnutzen &amp;amp; nur in den dafür vorgesehnen Channeln verwenden&lt;/em>
-&lt;ul>
-&lt;li>yunite-leveling&lt;/li>
-&lt;li>memes&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;em>Kein An- &amp;amp; Verkauf von Waren/Accounts/etc&lt;/em> -&amp;gt; Easy Instant Ban&lt;/li>
-&lt;li>&lt;em>Kein unnötiges Rollen oder User pingen&lt;/em> -&amp;gt; 5min-1h Timeout&lt;/li>
-&lt;li>&lt;em>Hauptadmins &amp;amp; Admins nicht unnötig belasten&lt;/em>&lt;/li>
-&lt;li>&lt;em>Pingbare &amp;amp; Regelkonforme Namen verwenden&lt;/em>
-&lt;ul>
-&lt;li>Bei nicht Einhaltung der Regel wird der Name geändert&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;em>Die Discord ToS sind einzuhalten!&lt;/em>_ - &amp;gt;Ban, Ban, Ban&lt;/li>
-&lt;li>&lt;em>Hauptadmins haben das Letzte Wort&lt;/em>
-&lt;ul>
-&lt;li>Anweisungen sind zu befolgen auch wenn diese nicht in regeln auftauchen&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;em>Admins handeln ausschließlich nach den hier gennanten Regeln&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Wir Freuen uns auf dich!&lt;/strong>&lt;/p></content></item><item><title>Impressum</title><link>https://garde-studios.de/impressum/</link><pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate><guid>https://garde-studios.de/impressum/</guid><description>Angaben gemäß § 5 TMG Phil Keier
-Rankestraße 16
-38102 Braunschweig
+Server Regeln: Keine Beleidigungen Bei zwei Beleidigungen gibt es einen 5min Timeout. Bei Wiederholten Beleidigungen einen Kick. (Zählt für alle Channel auch die Sprachchannel) Respektvoller Umgang Kein Spam (auch nicht im Sprachchat!) Keine Eigen - oder Fremdwerbung Darunter zählt auch Werbung im Namen oder in der Beschreibung.</description>
+      <content>&lt;p&gt;&lt;a href=&#34;https://discord.gg/SgMdHSBs7y&#34;&gt;&lt;img src=&#34;https://dcbadge.vercel.app/api/server/SgMdHSBs7y?style=flat&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://badgen.net/discord/online-members/SgMdHSBs7y&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Join unserem &lt;a href=&#34;https://discord.gg/SgMdHSBs7y&#34;&gt;Discord Server&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Du bist jederzeit Willkommen. Schreib mit uns in verschiedensten Kategorien über diverese Thematiken. Die einzige Voraussetzung? Halte dich bitte an unsere Regeln!&lt;/p&gt;
+&lt;h4 id=&#34;server-regeln&#34;&gt;Server Regeln:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Keine Beleidigungen&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Bei zwei Beleidigungen gibt es einen 5min Timeout.&lt;/li&gt;
+&lt;li&gt;Bei Wiederholten Beleidigungen einen Kick. (Zählt für alle Channel auch die Sprachchannel)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Respektvoller Umgang&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kein Spam&lt;/em&gt; (auch nicht im Sprachchat!)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Keine Eigen - oder Fremdwerbung&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Darunter zählt auch Werbung im Namen oder in der Beschreibung.&lt;/li&gt;
+&lt;li&gt;Wird mit einem Kick bestraft.&lt;/li&gt;
+&lt;li&gt;Bei wiederholter Tat gibt es einen Ban.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kein NSFW Content&lt;/em&gt; -&amp;gt; Sonst Ban&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Keine Multiaccounts&lt;/em&gt; um einen Ban zu umgehen&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Bot Commands nicht ausnutzen &amp;amp; nur in den dafür vorgesehnen Channeln verwenden&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;yunite-leveling&lt;/li&gt;
+&lt;li&gt;memes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kein An- &amp;amp; Verkauf von Waren/Accounts/etc&lt;/em&gt; -&amp;gt; Easy Instant Ban&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Kein unnötiges Rollen oder User pingen&lt;/em&gt; -&amp;gt; 5min-1h Timeout&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Hauptadmins &amp;amp; Admins nicht unnötig belasten&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Pingbare &amp;amp; Regelkonforme Namen verwenden&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Bei nicht Einhaltung der Regel wird der Name geändert&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Die Discord ToS sind einzuhalten!&lt;/em&gt;_ - &amp;gt;Ban, Ban, Ban&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Hauptadmins haben das Letzte Wort&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Anweisungen sind zu befolgen auch wenn diese nicht in regeln auftauchen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Admins handeln ausschließlich nach den hier gennanten Regeln&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Wir Freuen uns auf dich!&lt;/strong&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://garde-studios.de/impressum/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://garde-studios.de/impressum/</guid>
+      <description>Angaben gemäß § 5 TMG Phil Keier
+Mittelweg 17 38104 Braunschweig
 Kontakt Telefon: +49 1515 4718167
 E-Mail: phil.keier@hotmail.com
-Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description><content>&lt;h2 id="angaben-gemäß--5-tmg">Angaben gemäß § 5 TMG&lt;/h2>
-&lt;p>Phil Keier&lt;br>
-Rankestraße 16&lt;br>
-38102 Braunschweig&lt;/p>
-&lt;h2 id="kontakt">Kontakt&lt;/h2>
-&lt;p>Telefon: +49 1515 4718167&lt;br>
-E-Mail: &lt;a href="mailto:phil.keier@hotmail.com">phil.keier@hotmail.com&lt;/a>&lt;/p>
-&lt;h3 id="haftung-für-inhalte">Haftung für Inhalte&lt;/h3>
-&lt;p>Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.&lt;/p>
-&lt;p>Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p>
-&lt;h3 id="haftung-für-links">Haftung für Links&lt;/h3>
-&lt;p>Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.&lt;/p>
-&lt;p>Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;/p>
-&lt;h3 id="urheberrecht">Urheberrecht&lt;/h3>
-&lt;p>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.&lt;/p>
-&lt;p>Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p>
-&lt;p>Diese Webseite ist gebaut mit Hugo&lt;/p>
-&lt;p>&lt;img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&amp;amp;logo=Hugo" alt="Hugo">&lt;/p></content></item></channel></rss>
+Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
+      <content>&lt;h2 id=&#34;angaben-gemäß--5-tmg&#34;&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;
+&lt;p&gt;Phil Keier&lt;br&gt;
+Mittelweg 17
+38104 Braunschweig&lt;/p&gt;
+&lt;h2 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h2&gt;
+&lt;p&gt;Telefon: +49 1515 4718167&lt;br&gt;
+E-Mail: &lt;a href=&#34;mailto:phil.keier@hotmail.com&#34;&gt;phil.keier@hotmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;haftung-für-inhalte&#34;&gt;Haftung für Inhalte&lt;/h3&gt;
+&lt;p&gt;Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.&lt;/p&gt;
+&lt;p&gt;Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;
+&lt;h3 id=&#34;haftung-für-links&#34;&gt;Haftung für Links&lt;/h3&gt;
+&lt;p&gt;Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.&lt;/p&gt;
+&lt;p&gt;Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;/p&gt;
+&lt;h3 id=&#34;urheberrecht&#34;&gt;Urheberrecht&lt;/h3&gt;
+&lt;p&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.&lt;/p&gt;
+&lt;p&gt;Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p&gt;
+&lt;p&gt;Diese Webseite ist gebaut mit Hugo&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&amp;amp;logo=Hugo&#34; alt=&#34;Hugo&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
