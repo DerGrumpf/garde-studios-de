@@ -6,8 +6,8 @@ author = "DerGrumpf"
 ## Angaben gemäß § 5 TMG
 
 Phil Keier  
-Rankestraße 16   
-38102 Braunschweig
+Mittelweg 17
+38104 Braunschweig
 
 ## Kontakt
 

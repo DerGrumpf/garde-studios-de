@@ -11,10 +11,10 @@ Einem Ort wo sich jeder, Willkommen fühlen kann.
 
 
 Zu unserem Team: 
-Wir sind ein Team von 8 Mitgliedern 3 Hauptadmins und 5 Normalen Admins.
-Die Hauptadmins bestimmen zusammen den Server und die Admins sind wie Mods nur mit mehr Kontrolle.
-Bevor auf unseren Server etwas passiert entscheidet unser gesamtes Team zusammen darüber.
-Der Inhaber des Server ist _El Capitan Loading_, die Co-Inhaber sind _mlgChaostom_ und _DerGrumpf_.
+Wir sind ein Team bestehend aus 8 Admins.
+Davon führen 3 die Spitze und entscheiden Demokratisch alle Prozesse auf dem Server.
+Die anderen 5 sind Mods mit erweiterten Rechten und werden in der Regel mit in die Entscheidungsprozesse einbezogen.
+Vorsitzender von _Garde Studios_ ist _El Capitan Loading_, _mlgChaostom_ kümmert sich um die Community arbeit und _DerGrumpf_ verwaltet Systemadmin unsere Cloudserver.
 
 Zu unserem Server [Discord Server](https://garde-studios.de/posts/discord):
 Der Server ist unsere Heimat und unser kleines Experimentelles Labor. Wir Testen herum, haben Spaß und reden über alles. Bei uns gibt es wenige Grenzen, und wenn es grenzen gibt, stehen diese in unseren Regeln drinnen. Wir empfehlen sich daran zu halten, weil wir wollen keine Streitigkeiten. Auf dem Discord Server sind alle arten von Gruppen, Franchisen usw. Willkommen.
