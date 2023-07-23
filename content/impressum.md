@@ -5,8 +5,9 @@ author = "DerGrumpf"
 +++
 ## Angaben gemäß § 5 TMG
 
-Phil Keier  
-Mittelweg 17
+Phil Keier
+
+Mittelweg 17,
 38104 Braunschweig
 
 ## Kontakt
